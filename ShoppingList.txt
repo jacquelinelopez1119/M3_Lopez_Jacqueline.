@@ -4,6 +4,5 @@ apples
 oranges
 milk 
 strawberries 
-
 chips
 cereal 
