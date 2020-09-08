@@ -6,3 +6,4 @@ milk
 strawberries 
 cookies
 chips
+cereal 
