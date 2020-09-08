@@ -4,6 +4,6 @@ apples
 oranges
 milk 
 strawberries 
-cookies
+
 chips
 cereal 
